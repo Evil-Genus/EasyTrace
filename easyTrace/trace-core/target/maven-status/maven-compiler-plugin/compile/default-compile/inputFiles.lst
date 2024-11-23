@@ -1,0 +1,17 @@
+D:\01\demo\easyTrace\trace-core\src\main\java\com\kai\aspect\CallLogAspect.java
+D:\01\demo\easyTrace\trace-core\src\main\java\com\kai\model\Record.java
+D:\01\demo\easyTrace\trace-core\src\main\java\com\kai\transformer\MethodClassFileTransformer.java
+D:\01\demo\easyTrace\trace-core\src\main\java\com\kai\adapter\demo.java
+D:\01\demo\easyTrace\trace-core\src\main\java\com\kai\model\FrameRecord.java
+D:\01\demo\easyTrace\trace-core\src\main\java\com\kai\util\JavassistUtils.java
+D:\01\demo\easyTrace\trace-core\src\main\java\com\kai\adapter\restTemplate\RestTemplateResponseAdapter.java
+D:\01\demo\easyTrace\trace-core\src\main\java\com\kai\aspect\Aspect.java
+D:\01\demo\easyTrace\trace-core\src\main\java\com\kai\Impl\SpyMethodImpl.java
+D:\01\demo\easyTrace\trace-core\src\main\java\com\kai\adapter\MethodAdapter.java
+D:\01\demo\easyTrace\trace-core\src\main\java\com\kai\aspect\Frame.java
+D:\01\demo\easyTrace\trace-core\src\main\java\com\kai\adapter\ModifyClassAdapter.java
+D:\01\demo\easyTrace\trace-core\src\main\java\com\kai\transformer\TraceClassFileTransformer.java
+D:\01\demo\easyTrace\trace-core\src\main\java\com\kai\aspect\FrameLogAspect.java
+D:\01\demo\easyTrace\trace-core\src\main\java\com\kai\model\LogRecord.java
+D:\01\demo\easyTrace\trace-core\src\main\java\com\kai\adapter\SpringMvcAdapter.java
+D:\01\demo\easyTrace\trace-core\src\main\java\com\kai\adapter\restTemplate\RestTemplateRequestAdapter.java

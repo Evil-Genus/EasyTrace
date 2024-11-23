@@ -1,0 +1,5 @@
+com\kai\util\TransformUtil.class
+com\kai\agent\TraceAgent.class
+com\kai\loader\easyTraceClassLoader.class
+com\kai\constants\JarPaths.class
+com\kai\util\CommandHandler.class

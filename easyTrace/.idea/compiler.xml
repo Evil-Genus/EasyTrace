@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="trace-agent" />
+        <module name="trace-core" />
+        <module name="trace-client" />
+        <module name="trace-spy" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="easyTrace" target="8" />
+      <module name="trace-agent" target="8" />
+      <module name="trace-client" target="8" />
+      <module name="trace-core" target="8" />
+      <module name="trace-plugins" target="8" />
+      <module name="trace-spy" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
