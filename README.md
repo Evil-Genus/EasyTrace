@@ -1,2 +1,2 @@
 # EasyTrace
-一个基于JavaAgent技术实现的轻量级分布式链路追踪系统，实现业务代码零侵入，同时支持方法级别的耗时检测和业务代码过程中类的热部署等功能
+A lightweight distributed tracing system based on JavaAgent technology, achieving zero intrusion into business code. It supports method-level time consumption monitoring and hot deployment of classes during business code execution.
